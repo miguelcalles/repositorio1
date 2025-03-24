@@ -19,5 +19,6 @@
 3. O
  - 3.1
 ## Separaciones
-Esto es una _ _ _ separación
+Esto es una separación 
+---
 
